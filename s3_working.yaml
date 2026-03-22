@@ -2,6 +2,7 @@
 # Revision number
 # Date
 
+
 AWSTemplateFormatVersion: 2010-09-09
 Resources:
   S3Bucket:
